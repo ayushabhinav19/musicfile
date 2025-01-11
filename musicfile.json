@@ -25,5 +25,23 @@
         "genre": "Progressive House, Electro House",
         "date": "2014-05-20T07:00:00+00:00",
         "artwork": "https://devbhumimagazine.com/uploads/images/202406/image_870x580_667ab69779efd.jpg"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/ayushabhinav19/MusicTest/refs/heads/main/Victory%20Anthem%20-%20PagalWorld.mp3",
+        "title": "Victory Anthem",
+        "artist": "Lush curry",
+        "album": "while(1<2)",
+        "genre": "Progressive House, Electro House",
+        "date": "2014-05-20T07:00:00+00:00",
+        "artwork": "https://images.genius.com/e7646ed0405962d87b29b464998340a1.1000x1000x1.jpg"
+    },
+    {   "url": "https://raw.githubusercontent.com/ayushabhinav19/MusicTest/refs/heads/main/We%20Rollin%20-%20Shubh.mp3",
+        "title": "We Rollin",
+        "artist": "Subh",
+        "album": "while(1<2)",
+        "genre": "Progressive House, Electro House",
+        "date": "2014-05-20T07:00:00+00:00",
+        "artwork": "https://i1.sndcdn.com/artworks-it21UoDZK29Kw9hN-wJY2Jg-t500x500.png"
     }
+
 ]
