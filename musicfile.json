@@ -79,6 +79,25 @@
         "genre": "Progressive House, Electro House",
         "date": "2014-05-20T07:00:00+00:00",
         "artwork": "https://c.saavncdn.com/514/Tora-Hindi-2020-20200816073413-500x500.jpg"
-    }
+    },
+    {
+        "url": "https://raw.githubusercontent.com/ayushabhinav19/MusicTest/refs/heads/main/Haryane%20Ka%20Jaat.mp3",
+        "title": "Haryana ka jaat",
+        "artist": "Raju punjabi",
+        "album": "while(1<2)",
+        "genre": "Progressive House, Electro House",
+        "date": "2014-05-20T07:00:00+00:00",
+        "artwork": "https://c.saavncdn.com/954/Haryane-Ka-Jaat-Haryanvi-2023-20231120071359-500x500.jpg"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/ayushabhinav19/MusicTest/refs/heads/main/Choudhar%20Jaat%20Ki%20(Slowed%20And%20Reverb)%20-%20Raju%20Punjabi%20320%20Kbps.mp3",
+        "title": "Choudhar Jaat ki(slow and reverbed)"
+        "artist": "Raju punjabi",
+        "album": "while(1<2)",
+        "genre": "Progressive House, Electro House",
+        "date": "2014-05-20T07:00:00+00:00",
+        "artwork": "https://source.boomplaymusic.com/group10/M00/09/14/e42521e59926428b9d5186185253db94_464_464.jpg"
+    },
 
 ]
+
