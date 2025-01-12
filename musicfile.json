@@ -197,5 +197,12 @@
 		"artist": "Halsey",
 		"artwork": "https://samplesongs.netlify.app/album-arts/without-me.jpg",
 		"url": "https://samplesongs.netlify.app/Without%20Me.mp3"
+	},
+	{
+		"title": "Die with smile",
+		"artist": "Lady gaga",
+		"artwork": "https://www.musicscenemedia.com/content/images/size/w1200/2024/08/Banner2.jpg",
+		"url": "https://samplesongs.netlify.app/Without%20Me.mp3"
 	}
+	
 ]
