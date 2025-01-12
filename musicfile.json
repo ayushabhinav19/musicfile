@@ -60,6 +60,70 @@
 		"album": "while(1<2)",
 		"genre": "Progressive House, Electro House",
 		"date": "2014-05-20T07:00:00+00:00",
+		"artwork": "https://static.qobuz.com/images/covers/qb/uo/f5ri6rz2vuoqb"
+    },
+      {
+		"url": "https://raw.githubusercontent.com/ayushabhinav19/MusicTest/refs/heads/main/Mockingbird%20-%20PagalWorld.mp3",
+		"title": "MockingBird",
+		"artist": "Eminem",
+		"album": "while(1<2)",
+		"genre": "Progressive House, Electro House",
+		"date": "2014-05-20T07:00:00+00:00",
+		"artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeu6G7uVjrHEtLEhiK_nwHqc3ncyXWhEyuAw6kcZYlc7sgYdWIVLQB4M_hDwN25JYnpV8&usqp=CAU"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ayushabhinav19/MusicTest/refs/heads/main/Russian%20Bandana.mp3",
+		"title": "Russian Bandana",
+		"artist": "deadmau5",
+		"album": "while(1<2)",
+		"genre": "Progressive House, Electro House",
+		"date": "2014-05-20T07:00:00+00:00",
+		"artwork": "https://i.ytimg.com/vi/AMUcevp0sME/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCwmBtvSXCodwpyws_Cj5zLwsD0WQ"
+	},
+
+	{
+		"url": "https://raw.githubusercontent.com/ayushabhinav19/MusicTest/refs/heads/main/Millionaire.mp3",
+		"title": "Millionare",
+		"artist": "Honey Singh",
+		"album": "while(1<2)",
+		"genre": "Progressive House, Electro House",
+		"date": "2014-05-20T07:00:00+00:00",
+		"artwork": "https://devbhumimagazine.com/uploads/images/202406/image_870x580_667ab69779efd.jpg"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ayushabhinav19/MusicTest/refs/heads/main/Victory%20Anthem%20-%20PagalWorld.mp3",
+		"title": "Victory Anthem",
+		"artist": "Lush curry",
+		"album": "while(1<2)",
+		"genre": "Progressive House, Electro House",
+		"date": "2014-05-20T07:00:00+00:00",
+		"artwork": "https://images.genius.com/e7646ed0405962d87b29b464998340a1.1000x1000x1.jpg"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ayushabhinav19/MusicTest/refs/heads/main/We%20Rollin%20-%20Shubh.mp3",
+		"title": "We Rollin",
+		"artist": "Subh",
+		"album": "while(1<2)",
+		"genre": "Progressive House, Electro House",
+		"date": "2014-05-20T07:00:00+00:00",
+		"artwork": "https://i1.sndcdn.com/artworks-it21UoDZK29Kw9hN-wJY2Jg-t500x500.png"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ayushabhinav19/MusicTest/refs/heads/main/Yaar%20Ke%20Gal%20Chale.mp3",
+		"title": "Yaar Di Gayel Chale",
+		"artist": "Jay Shah",
+		"album": "while(1<2)",
+		"genre": "Progressive House, Electro House",
+		"date": "2014-05-20T07:00:00+00:00",
+		"artwork": "https://us-tuna-sounds-images.voicemod.net/18defd85-f5df-41a2-93be-fd6a399488d0-1719774197800.jpg"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ayushabhinav19/MusicTest/refs/heads/main/Ishare%20Tere%20Karti%20Nigah.mp3",
+		"title": "Feelings",
+		"artist": "Sumit Goswami",
+		"album": "while(1<2)",
+		"genre": "Progressive House, Electro House",
+		"date": "2014-05-20T07:00:00+00:00",
 		"artwork": "https://static.qobuz.com/images/covers/qb/uo/f5ri6rz2vuoqb_600.jpg"
 	},
 	{
