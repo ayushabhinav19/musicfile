@@ -1,138 +1,137 @@
-[
-    {
-        "url": "https://raw.githubusercontent.com/ayushabhinav19/MusicTest/refs/heads/main/Mockingbird%20-%20PagalWorld.mp3",
-        "title": "MockingBird",
-        "artist": "Eminem",
-        "album": "while(1<2)",
-        "genre": "Progressive House, Electro House",
-        "date": "2014-05-20T07:00:00+00:00",
-        "artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeu6G7uVjrHEtLEhiK_nwHqc3ncyXWhEyuAw6kcZYlc7sgYdWIVLQB4M_hDwN25JYnpV8&usqp=CAU"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/ayushabhinav19/MusicTest/refs/heads/main/Russian%20Bandana.mp3",
-        "title": "Russian Bandana",
-        "artist": "deadmau5",
-        "album": "while(1<2)",
-        "genre": "Progressive House, Electro House",
-        "date": "2014-05-20T07:00:00+00:00",
-        "artwork": "https://i.ytimg.com/vi/AMUcevp0sME/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCwmBtvSXCodwpyws_Cj5zLwsD0WQ"
-    },
-    
-    {
-        "url": "https://raw.githubusercontent.com/ayushabhinav19/MusicTest/refs/heads/main/Millionaire.mp3",
-        "title": "Millionare",
-        "artist": "Honey Singh",
-        "album": "while(1<2)",
-        "genre": "Progressive House, Electro House",
-        "date": "2014-05-20T07:00:00+00:00",
-        "artwork": "https://devbhumimagazine.com/uploads/images/202406/image_870x580_667ab69779efd.jpg"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/ayushabhinav19/MusicTest/refs/heads/main/Victory%20Anthem%20-%20PagalWorld.mp3",
-        "title": "Victory Anthem",
-        "artist": "Lush curry",
-        "album": "while(1<2)",
-        "genre": "Progressive House, Electro House",
-        "date": "2014-05-20T07:00:00+00:00",
-        "artwork": "https://images.genius.com/e7646ed0405962d87b29b464998340a1.1000x1000x1.jpg"
-    },
-    {   "url": "https://raw.githubusercontent.com/ayushabhinav19/MusicTest/refs/heads/main/We%20Rollin%20-%20Shubh.mp3",
-        "title": "We Rollin",
-        "artist": "Subh",
-        "album": "while(1<2)",
-        "genre": "Progressive House, Electro House",
-        "date": "2014-05-20T07:00:00+00:00",
-        "artwork": "https://i1.sndcdn.com/artworks-it21UoDZK29Kw9hN-wJY2Jg-t500x500.png"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/ayushabhinav19/MusicTest/refs/heads/main/Yaar%20Ke%20Gal%20Chale.mp3",
-        "title": "Yaar Di Gayel Chale",
-        "artist": "Jay Shah",
-        "album": "while(1<2)",
-        "genre": "Progressive House, Electro House",
-        "date": "2014-05-20T07:00:00+00:00",
-        "artwork": "https://us-tuna-sounds-images.voicemod.net/18defd85-f5df-41a2-93be-fd6a399488d0-1719774197800.jpg"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/ayushabhinav19/MusicTest/refs/heads/main/Ishare%20Tere%20Karti%20Nigah.mp3",
-        "title": "Feelings",
-        "artist": "Sumit Goswami",
-        "album": "while(1<2)",
-        "genre": "Progressive House, Electro House",
-        "date": "2014-05-20T07:00:00+00:00",
-        "artwork": "https://static.qobuz.com/images/covers/qb/uo/f5ri6rz2vuoqb_600.jpg"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/ayushabhinav19/MusicTest/refs/heads/main/Parindey%20-%20Sumit%20Goswami.mp3",
-        "title": "Parinday",
-        "artist": "Sumit Goswami",
-        "album": "while(1<2)",
-        "genre": "Progressive House, Electro House",
-        "date": "2014-05-20T07:00:00+00:00",
-        "artwork": "https://source.boomplaymusic.com/group10/M00/09/02/c8dc61d5cc55477ea1dda26654b6832d_464_464.jpg"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/ayushabhinav19/MusicTest/refs/heads/main/Tora%20-%20Sumit%20Goswami.mp3",
-        "title": "Tora",
-        "artist": "Sumit Goswami",
-        "album": "while(1<2)",
-        "genre": "Progressive House, Electro House",
-        "date": "2014-05-20T07:00:00+00:00",
-        "artwork": "https://c.saavncdn.com/514/Tora-Hindi-2020-20200816073413-500x500.jpg"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/ayushabhinav19/MusicTest/refs/heads/main/Haryane%20Ka%20Jaat.mp3",
-        "title": "Haryana ka jaat",
-        "artist": "Raju punjabi",
-        "album": "while(1<2)",
-        "genre": "Progressive House, Electro House",
-        "date": "2014-05-20T07:00:00+00:00",
-        "artwork": "https://c.saavncdn.com/954/Haryane-Ka-Jaat-Haryanvi-2023-20231120071359-500x500.jpg"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/ayushabhinav19/MusicTest/refs/heads/main/Choudhar%20Jaat%20Ki%20(Slowed%20And%20Reverb)%20-%20Raju%20Punjabi%20320%20Kbps.mp3",
-        "title": "Choudhar Jaat ki(slow and reverbed)",
-        "artist": "Raju punjabi",
-        "album": "while(1<2)",
-        "genre": "Progressive House, Electro House",
-        "date": "2014-05-20T07:00:00+00:00",
-        "artwork": "https://source.boomplaymusic.com/group10/M00/09/14/e42521e59926428b9d5186185253db94_464_464.jpg"
-    },
-    {
-    "title": "Death Bed",
-    "artist": "Powfu",
-    "artwork": "https://samplesongs.netlify.app/album-arts/death-bed.jpg",
-    "url": "https://samplesongs.netlify.app/Death%20Bed.mp3",
-  },
-  {
-    "title": "Bad Liar",
-    "artist": "Imagine Dragons",
-    "artwork": "https://samplesongs.netlify.app/album-arts/bad-liar.jpg",
-    "url": "https://samplesongs.netlify.app/Bad%20Liar.mp3",
-  },
-  {
-    "title": "Faded",
-    "artist": "Alan Walker",
-    "artwork": "https://samplesongs.netlify.app/album-arts/faded.jpg",
-    "url": "https://samplesongs.netlify.app/Faded.mp3",
-  },
-  {
-    "title": "Hate Me",
-    "artist": "Ellie Goulding",
-    "artwork": "https://samplesongs.netlify.app/album-arts/hate-me.jpg",
-    "url": "https://samplesongs.netlify.app/Hate%20Me.mp3",
-  },
-  {
-    "title": "Solo",
-    "artist": "Clean Bandit",
-    "artwork": "https://samplesongs.netlify.app/album-arts/solo.jpg",
-    "url": "https://samplesongs.netlify.app/Solo.mp3",
-  },
-  {
-    "title": "Without Me",
-    "artist": "Halsey",
-    "artwork": "https://samplesongs.netlify.app/album-arts/without-me.jpg",
-    "url": "https://samplesongs.netlify.app/Without%20Me.mp3",
-  }
-]
+[{
+		"url": "https://raw.githubusercontent.com/ayushabhinav19/MusicTest/refs/heads/main/Mockingbird%20-%20PagalWorld.mp3",
+		"title": "MockingBird",
+		"artist": "Eminem",
+		"album": "while(1<2)",
+		"genre": "Progressive House, Electro House",
+		"date": "2014-05-20T07:00:00+00:00",
+		"artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeu6G7uVjrHEtLEhiK_nwHqc3ncyXWhEyuAw6kcZYlc7sgYdWIVLQB4M_hDwN25JYnpV8&usqp=CAU"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ayushabhinav19/MusicTest/refs/heads/main/Russian%20Bandana.mp3",
+		"title": "Russian Bandana",
+		"artist": "deadmau5",
+		"album": "while(1<2)",
+		"genre": "Progressive House, Electro House",
+		"date": "2014-05-20T07:00:00+00:00",
+		"artwork": "https://i.ytimg.com/vi/AMUcevp0sME/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCwmBtvSXCodwpyws_Cj5zLwsD0WQ"
+	},
 
+	{
+		"url": "https://raw.githubusercontent.com/ayushabhinav19/MusicTest/refs/heads/main/Millionaire.mp3",
+		"title": "Millionare",
+		"artist": "Honey Singh",
+		"album": "while(1<2)",
+		"genre": "Progressive House, Electro House",
+		"date": "2014-05-20T07:00:00+00:00",
+		"artwork": "https://devbhumimagazine.com/uploads/images/202406/image_870x580_667ab69779efd.jpg"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ayushabhinav19/MusicTest/refs/heads/main/Victory%20Anthem%20-%20PagalWorld.mp3",
+		"title": "Victory Anthem",
+		"artist": "Lush curry",
+		"album": "while(1<2)",
+		"genre": "Progressive House, Electro House",
+		"date": "2014-05-20T07:00:00+00:00",
+		"artwork": "https://images.genius.com/e7646ed0405962d87b29b464998340a1.1000x1000x1.jpg"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ayushabhinav19/MusicTest/refs/heads/main/We%20Rollin%20-%20Shubh.mp3",
+		"title": "We Rollin",
+		"artist": "Subh",
+		"album": "while(1<2)",
+		"genre": "Progressive House, Electro House",
+		"date": "2014-05-20T07:00:00+00:00",
+		"artwork": "https://i1.sndcdn.com/artworks-it21UoDZK29Kw9hN-wJY2Jg-t500x500.png"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ayushabhinav19/MusicTest/refs/heads/main/Yaar%20Ke%20Gal%20Chale.mp3",
+		"title": "Yaar Di Gayel Chale",
+		"artist": "Jay Shah",
+		"album": "while(1<2)",
+		"genre": "Progressive House, Electro House",
+		"date": "2014-05-20T07:00:00+00:00",
+		"artwork": "https://us-tuna-sounds-images.voicemod.net/18defd85-f5df-41a2-93be-fd6a399488d0-1719774197800.jpg"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ayushabhinav19/MusicTest/refs/heads/main/Ishare%20Tere%20Karti%20Nigah.mp3",
+		"title": "Feelings",
+		"artist": "Sumit Goswami",
+		"album": "while(1<2)",
+		"genre": "Progressive House, Electro House",
+		"date": "2014-05-20T07:00:00+00:00",
+		"artwork": "https://static.qobuz.com/images/covers/qb/uo/f5ri6rz2vuoqb_600.jpg"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ayushabhinav19/MusicTest/refs/heads/main/Parindey%20-%20Sumit%20Goswami.mp3",
+		"title": "Parinday",
+		"artist": "Sumit Goswami",
+		"album": "while(1<2)",
+		"genre": "Progressive House, Electro House",
+		"date": "2014-05-20T07:00:00+00:00",
+		"artwork": "https://source.boomplaymusic.com/group10/M00/09/02/c8dc61d5cc55477ea1dda26654b6832d_464_464.jpg"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ayushabhinav19/MusicTest/refs/heads/main/Tora%20-%20Sumit%20Goswami.mp3",
+		"title": "Tora",
+		"artist": "Sumit Goswami",
+		"album": "while(1<2)",
+		"genre": "Progressive House, Electro House",
+		"date": "2014-05-20T07:00:00+00:00",
+		"artwork": "https://c.saavncdn.com/514/Tora-Hindi-2020-20200816073413-500x500.jpg"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ayushabhinav19/MusicTest/refs/heads/main/Haryane%20Ka%20Jaat.mp3",
+		"title": "Haryana ka jaat",
+		"artist": "Raju punjabi",
+		"album": "while(1<2)",
+		"genre": "Progressive House, Electro House",
+		"date": "2014-05-20T07:00:00+00:00",
+		"artwork": "https://c.saavncdn.com/954/Haryane-Ka-Jaat-Haryanvi-2023-20231120071359-500x500.jpg"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ayushabhinav19/MusicTest/refs/heads/main/Choudhar%20Jaat%20Ki%20(Slowed%20And%20Reverb)%20-%20Raju%20Punjabi%20320%20Kbps.mp3",
+		"title": "Choudhar Jaat ki(slow and reverbed)",
+		"artist": "Raju punjabi",
+		"album": "while(1<2)",
+		"genre": "Progressive House, Electro House",
+		"date": "2014-05-20T07:00:00+00:00",
+		"artwork": "https://source.boomplaymusic.com/group10/M00/09/14/e42521e59926428b9d5186185253db94_464_464.jpg"
+	},
+	{
+		"title": "Death Bed",
+		"artist": "Powfu",
+		"artwork": "https://samplesongs.netlify.app/album-arts/death-bed.jpg",
+		"url": "https://samplesongs.netlify.app/Death%20Bed.mp3"
+	},
+	{
+		"title": "Bad Liar",
+		"artist": "Imagine Dragons",
+		"artwork": "https://samplesongs.netlify.app/album-arts/bad-liar.jpg",
+		"url": "https://samplesongs.netlify.app/Bad%20Liar.mp3"
+	},
+	{
+		"title": "Faded",
+		"artist": "Alan Walker",
+		"artwork": "https://samplesongs.netlify.app/album-arts/faded.jpg",
+		"url": "https://samplesongs.netlify.app/Faded.mp3"
+	},
+	{
+		"title": "Hate Me",
+		"artist": "Ellie Goulding",
+		"artwork": "https://samplesongs.netlify.app/album-arts/hate-me.jpg",
+		"url": "https://samplesongs.netlify.app/Hate%20Me.mp3"
+	},
+	{
+		"title": "Solo",
+		"artist": "Clean Bandit",
+		"artwork": "https://samplesongs.netlify.app/album-arts/solo.jpg",
+		"url": "https://samplesongs.netlify.app/Solo.mp3"
+	},
+	{
+		"title": "Without Me",
+		"artist": "Halsey",
+		"artwork": "https://samplesongs.netlify.app/album-arts/without-me.jpg",
+		"url": "https://samplesongs.netlify.app/Without%20Me.mp3"
+	}
+]
