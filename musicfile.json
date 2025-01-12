@@ -43,6 +43,42 @@
         "genre": "Progressive House, Electro House",
         "date": "2014-05-20T07:00:00+00:00",
         "artwork": "https://i1.sndcdn.com/artworks-it21UoDZK29Kw9hN-wJY2Jg-t500x500.png"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/ayushabhinav19/MusicTest/refs/heads/main/Yaar%20Ke%20Gal%20Chale.mp3",
+        "title": "Yaar Di Gayel Chale",
+        "artist": "Jay Shah",
+        "album": "while(1<2)",
+        "genre": "Progressive House, Electro House",
+        "date": "2014-05-20T07:00:00+00:00",
+        "artwork": "https://us-tuna-sounds-images.voicemod.net/18defd85-f5df-41a2-93be-fd6a399488d0-1719774197800.jpg"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/ayushabhinav19/MusicTest/refs/heads/main/Ishare%20Tere%20Karti%20Nigah.mp3",
+        "title": "Feelings",
+        "artist": "Sumit Goswami",
+        "album": "while(1<2)",
+        "genre": "Progressive House, Electro House",
+        "date": "2014-05-20T07:00:00+00:00",
+        "artwork": "https://static.qobuz.com/images/covers/qb/uo/f5ri6rz2vuoqb_600.jpg"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/ayushabhinav19/MusicTest/refs/heads/main/Parindey%20-%20Sumit%20Goswami.mp3",
+        "title": "Parinday",
+        "artist": "Sumit Goswami",
+        "album": "while(1<2)",
+        "genre": "Progressive House, Electro House",
+        "date": "2014-05-20T07:00:00+00:00",
+        "artwork": "https://source.boomplaymusic.com/group10/M00/09/02/c8dc61d5cc55477ea1dda26654b6832d_464_464.jpg"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/ayushabhinav19/MusicTest/refs/heads/main/Parindey%20-%20Sumit%20Goswami.mp3",
+        "title": "Tora",
+        "artist": "Sumit Goswami",
+        "album": "while(1<2)",
+        "genre": "Progressive House, Electro House",
+        "date": "2014-05-20T07:00:00+00:00",
+        "artwork": "https://source.boomplaymusic.com/group10/M00/09/02/c8dc61d5cc55477ea1dda26654b6832d_464_464.jpg"
     }
 
 ]
