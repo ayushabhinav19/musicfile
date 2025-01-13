@@ -1,5 +1,5 @@
 [{
-		"url": "https://raw.githubusercontent.com/ayushabhinav19/MusicTest/refs/heads/main/Mockingbird%20-%20PagalWorld.mp3",
+		"url": "https://raw.githubusercontent.com/ayushabhinav19/musicfile/refs/heads/main/Mockingbird%20-%20PagalWorld.mp3",
 		"title": "MockingBird",
 		"artist": "Eminem",
 		"album": "while(1<2)",
@@ -8,7 +8,7 @@
 		"artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeu6G7uVjrHEtLEhiK_nwHqc3ncyXWhEyuAw6kcZYlc7sgYdWIVLQB4M_hDwN25JYnpV8&usqp=CAU"
 	},
 	{
-		"url": "https://raw.githubusercontent.com/ayushabhinav19/MusicTest/refs/heads/main/Russian%20Bandana.mp3",
+		"url": "https://raw.githubusercontent.com/ayushabhinav19/musicfile/refs/heads/main/Russian%20Bandana.mp3",
 		"title": "Russian Bandana",
 		"artist": "deadmau5",
 		"album": "while(1<2)",
@@ -18,7 +18,7 @@
 	},
 
 	{
-		"url": "https://raw.githubusercontent.com/ayushabhinav19/MusicTest/refs/heads/main/Millionaire.mp3",
+		"url": "https://raw.githubusercontent.com/ayushabhinav19/musicfile/refs/heads/main/Millionaire.mp3",
 		"title": "Millionare",
 		"artist": "Honey Singh",
 		"album": "while(1<2)",
@@ -203,6 +203,12 @@
 		"artist": "Lady gaga",
 		"artwork": "https://www.musicscenemedia.com/content/images/size/w1200/2024/08/Banner2.jpg",
 		"url": "https://raw.githubusercontent.com/ayushabhinav19/MusicTest/refs/heads/main/Die%20With%20A%20Smile%20-%20PagalHits.mp3"
+	},
+	{
+		"title": "Khuda bhi",
+		"artist": "Mohit",
+		"artwork": "https://i.ytimg.com/vi/kyp1IufU9iw/sddefault.jpg",
+		"url": "https://raw.githubusercontent.com/ayushabhinav19/musicfile/refs/heads/main/Khuda%20Bhi%20-%20Ek%20Paheli%20Leela%20320%20Kbps.mp3"
 	}
 	
 ]
